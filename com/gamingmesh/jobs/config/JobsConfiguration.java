@@ -1305,8 +1305,8 @@ public class JobsConfiguration {
 	    GetConfigString("command.info.gui.pickjob", "&ePick your job!", writer, conf, true);
 	    GetConfigString("command.info.gui.jobinfo", "&e[jobname] info!", writer, conf, true);
 	    GetConfigString("command.info.gui.actions", "&eValid actions are:", writer, conf, true);
-	    GetConfigString("command.info.gui.leftClick", "&eLeft Click for more info", writer, conf, true);
-	    GetConfigString("command.info.gui.rightClick", "&eRight click to join job", writer, conf, true);
+	    GetConfigString("command.info.gui.leftClick", "&eBuda sana kapakolsun", writer, conf, true);
+	    GetConfigString("command.info.gui.rightClick", "&eBuda x2 kapak", writer, conf, true);
 	    GetConfigString("command.info.gui.leftSlots", "&eLeft slots:&f ", writer, conf, true);
 	    GetConfigString("command.info.gui.working", "&2&nAlready working", writer, conf, true);
 	    GetConfigString("command.info.gui.max", "&eMax level:&f ", writer, conf, true);
